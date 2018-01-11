@@ -3,6 +3,8 @@ kingkong tiny tx x8 radio is a minimalism radio, it's use STM8L052R8(64K/4K) run
 
 
 *************************************************************************
+[FRSKY-D16] frsky d16 code will in this folder
+*************************************************************************
 [OFFICIAL FW] folder include the official S-FHSS files.
 *************************************************************************
 [PDF] folder include manual of x8 radio.
