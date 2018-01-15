@@ -1,1 +1,4 @@
 frsky d16 code will in this folder
+
+
+Application code offset 0xA000  (FLASH RANGE is 0x0A000~0x17FFF)
