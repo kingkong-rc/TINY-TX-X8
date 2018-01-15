@@ -1,0 +1,3 @@
+Application code offset 0xA000  (FLASH RANGE is 0x0A000~0x17FFF)
+
+code use IAR-ATM-730 compiling
