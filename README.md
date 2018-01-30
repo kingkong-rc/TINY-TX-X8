@@ -6,11 +6,13 @@ kingkong tiny tx x8 radio is a minimalism radio, it's use STM8L052R8(64K/4K) run
 
 
 *************************************************************************
-FRSKY-D16 firmware already release version v1.0, click here https://github.com/kingkong-rc/TINY-TX-X8/releases
+FRSKY-D8/D16 firmware already release version v1.0, click here https://github.com/kigkong-rc/TINY-TX-X8/releases
 *************************************************************************
-FRSKY-D16 固件已经发布v1.0版本,点击此处 https://github.com/kingkong-rc/TINY-TX-X8/releases
+FRSKY-D8/D16 固件已经发布v1.0版本,点击此处 https://github.com/kingkong-rc/TINY-TX-X8/releases
 *************************************************************************
 
+*************************************************************************
+[FRSKY-D8] frsky d16 code will in this folder
 *************************************************************************
 [FRSKY-D16] frsky d16 code will in this folder
 *************************************************************************
